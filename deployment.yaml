@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: hello-jenkins
-        image: uday9533/hello-jenkins:1
+        image: uday9533/hello-jenkins:2
         imagePullPolicy: Always
 
         ports:
